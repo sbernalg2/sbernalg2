@@ -99,12 +99,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbernalg2&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
- <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em>
  
 <br>
 
