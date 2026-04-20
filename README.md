@@ -96,11 +96,14 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=sarath-pm&theme=tokyonight&show_icons=true/460/300">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sbernalg2&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbernalg2&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbernalg2&theme=tokyonight" height="150"/>
+</p>
 
 <br>
 
