@@ -8,13 +8,13 @@
 
 <b>About Me</b>
 
-- 🔭 I’m currently studying in `universidad de los Andes`
+🔭 I’m currently a Systems and Computer Engineering student at Universidad de los Andes  
 
-- 👯 I’m looking forward to get a job or a practice.
+👯 I’m seeking internship or junior opportunities in software development or cybersecurity  
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sbernalg2)**
+👨‍💻 All my projects are available here on GitHub  
 
-- 😄 Pronouns: He/Him/We
+😄 Pronouns: He/Him
 
 <br>
 
