@@ -1,113 +1,33 @@
-<h1 align="center">Hi, I'm Santiago Bernal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Santiago Bernal
 
-<div align="center">
+Final-year Systems and Computing Engineering student at Universidad de los Andes (Bogotá, Colombia). I'm looking for an internship in software development, cloud or data.
 
-</div>
+Most of what I've built during my degree was done in teams: mobile and web apps, AWS infrastructure written in Terraform, an encrypted client-server protocol, and an AI agent. Outside university I built and shipped the website for [Mordoc Media](https://mordocmedia.com).
 
-<b>About Me</b>
+My thesis studies whether homomorphic encryption is computationally viable for private inference with language models (systematic review and cost model).
 
-🔭 I’m currently a Systems and Computer Engineering student at Universidad de los Andes  
+## Projects
 
-👯 I’m seeking internship or junior opportunities in software development or cybersecurity  
+| Project | What it is | Stack |
+|---|---|---|
+| [CampusSwap](https://github.com/sbernalg2/Flutter-App) | Mobile app for students to swap course materials, with chat, meeting points on a map and usage analytics | Flutter, Dart, PostgreSQL |
+| [OptiCloud](https://github.com/sbernalg2/ISIS2503-SPRINT3) | Django app deployed on AWS with a load balancer, auto scaling and a private RDS database, all defined in Terraform. Load-tested with JMeter | Terraform, AWS, Django, PostgreSQL |
+| [Secure client-server protocol](https://github.com/sbernalg2/Caso-3-Infracomp) | Multithreaded Java server with RSA authentication, Diffie-Hellman key exchange, AES encryption and HMAC integrity checks, plus a load-testing client | Java, JCA |
+| [Angular web apps](https://github.com/sbernalg2/ISIS2603_202520_S2_Parcial2) | Single-page apps with modules, routing and REST services | Angular, TypeScript |
 
-👨‍💻 All my projects are available here on GitHub  
+## Skills
 
-😄 Pronouns: He/Him
+- **Languages:** Python, Java, TypeScript, Dart, Kotlin, SQL
+- **Development:** Flutter, Angular, Django, REST APIs, Git
+- **Data:** PostgreSQL, MongoDB, Firebase, Pandas, NumPy, scikit-learn, Jupyter
+- **Cloud and security:** AWS, Azure, Terraform, Docker, applied cryptography
+- **AI:** LLM agents with tool use (Universidad de los Andes certificate, 2026)
 
-<br>
+Currently taking Visual Analytics, Intro to Game Development and Foundations of Agent Building.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## Contact
 
-<p align="center">
+- Email: s.bernalg2@uniandes.edu.co
+- LinkedIn: [linkedin.com/in/sabego](https://www.linkedin.com/in/sabego)
 
-- 📋 Languages:
-
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    
-- ☁️ Cloud:
-
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-    
-- ♾️ DevOps:
-
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-    ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-    
-    
-- 💾 Databases:
-
-    ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-    
-- 🎛️ Operating Systen:
-
-    
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    
-- 💻 IDEs/Editors:
-
-    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-    
-- ⚙️ Frameworks & Libraries:
-
-    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-    ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-- 🛠️ Tools & Platforms:
-
-    ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-    ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-    ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-    ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-- 🧰 Productivity & Design:
-
-    ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-    ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-
-</p>
-
-<br> 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbernalg2&layout=compact&theme=tokyonight" height="150"/>
-</p>
- 
-<br>
-
-## 📫 Contact
-
-![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-- Email: s.bernalg2@uniandes.edu.co  
-- GitHub: https://github.com/sbernalg2  
-
------
-Credits: [Sarath P M](https://github.com/sarath-pm)
-Last Edited on: 10/07/2022
+Spanish (native) · English (C1)
