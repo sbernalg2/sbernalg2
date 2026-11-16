@@ -1,8 +1,8 @@
 # Santiago Bernal
 
-Systems and Computing Engineering student at Universidad de los Andes (Bogotá, Colombia). I'm looking for an internship in software development, cloud or data.
+Systems and Computing Engineering student at Universidad de Los Andes (Bogotá, Colombia). I'm looking for an internship in software development, cloud or data.
 
-Most of what I've built during my degree was done in teams: mobile and web apps, AWS infrastructure written in Terraform, an encrypted client-server protocol, and an AI agent. Outside university I built and shipped the website for [Mordoc Media](https://mordocmedia.com).
+Most of what I've built during my degree was done in teams: mobile and web apps, AWS infrastructure written in Terraform, an encrypted client-server protocol, and an AI agent. Outside university I built and shipped the website for [Mordoc Media].
 
 My thesis studies whether homomorphic encryption is computationally viable for private inference with language models (systematic review and cost model).
 
