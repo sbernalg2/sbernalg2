@@ -1,6 +1,6 @@
 # Santiago Bernal
 
-Final-year Systems and Computing Engineering student at Universidad de los Andes (Bogotá, Colombia). I'm looking for an internship in software development, cloud or data.
+Systems and Computing Engineering student at Universidad de los Andes (Bogotá, Colombia). I'm looking for an internship in software development, cloud or data.
 
 Most of what I've built during my degree was done in teams: mobile and web apps, AWS infrastructure written in Terraform, an encrypted client-server protocol, and an AI agent. Outside university I built and shipped the website for [Mordoc Media](https://mordocmedia.com).
 
@@ -27,7 +27,7 @@ Currently taking Visual Analytics, Intro to Game Development and Foundations of 
 
 ## Contact
 
-- Email: s.bernalg2@uniandes.edu.co
+- Email: sa.bernal.hu@hotmail.com
 - LinkedIn: [linkedin.com/in/sabego](https://www.linkedin.com/in/sabego)
 
 Spanish (native) · English (C1)
